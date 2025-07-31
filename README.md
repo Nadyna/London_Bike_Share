@@ -18,20 +18,20 @@ I chose this dataset because it offers rich temporal and environmental variables
 - **Data Sourse** [London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
 ## Methodology
-1. Data Cleaning
+1. **Data Cleaning**
    - Used bike-sharing dataset from [Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
    - Performed missing values checks, corrected data types, engineered features
-2. Exploratory Data Analysis (EDA)
+2. **Exploratory Data Analysis (EDA)**
    - Visualized distributions and relationships between variables using histograms, KDEs, Q-Q plots
    - Analyzed ride frequency across seasons, weekdays, hours and weather conditions
-4. Statistical Testing
+4. **Statistical Testing**
    - Applied correlation analysis (Pearson & Spearman)
    - Used ANOVA, Kruskal_wallis, Mann-Whitney U test for group comparison
    - Performed assumption testing where applicable (normality, skewness)
-6. Visualization & Interpretation
+6. **Visualization & Interpretation**
    - Developed interactive dashboard using Tableau
    - Interpreted technical results and translated them into business-relevant insights
-8. Documentation & Communication
+8. **Documentation & Communication**
    - Summarised both analytical and business insights
 
 ## Analytical Insights
