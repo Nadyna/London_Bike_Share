@@ -50,7 +50,6 @@ I chose this dataset because it offers temporal and environmental variables, whi
   - **Seasonal peaks** (e.g., July) and dips (e.g., January)
     ![Bike Share Distribution by Months](images/monthly_dist.png)
   - **Hourly** variations across day types and seasons
-    ![Hourly Bike Share Distribution by Season](images/hourly_dist_seasons.png)
   - Left-skewed distributions across weather categories
 
 ## Business insights
@@ -58,6 +57,7 @@ I chose this dataset because it offers temporal and environmental variables, whi
   ![Bike Share Distribution by Humidity](images/humidity_dist.png)
 - **Hourly patterns** show commute-realted peaks on workdays and midday peaks on weekends/holidays. This can guide staffing, bike redistribution, and targeted promotions.
 - **Seasonal trends** such as higher evening usage in summer and morning in winter, suggest the need for seasonally adaptive availability and marketing strategies.
+  ![Hourly Bike Share Distribution by Season](images/hourly_dist_seasons.png)
 - **Monthly ride trends** indicate predictable seasonal usage variations. Operators can optimize maintenance and promotional efforts around low-demand months like January.
 - **Wind speed trends** reflect increase in rides with wind speed until a subtle dip. Understanding this can improve weather-adjusted demand models.
 - Overall, the analysis supports **context-specific planning over generalized strategies**, enhancing both service reliability and user satisfaction.
