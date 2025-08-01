@@ -47,11 +47,14 @@ I chose this dataset because it offers temporal and environmental variables, whi
 - **Descriptive and EDA** findings included:
   - Right-skewed overall ride distribution
   - **Seasonal peaks** (e.g., July) and dips (e.g., January)
+    ![Bike Share Distribution by Months](images/monthly_dist.png)
   - **Hourly** variations across day types and seasons
+    ![Hourly Bike Share Distribution by Season](images/hourly_dist_seasons.png)
   - Left-skewed distributions across weather categories
 
 ## Business insights
 - **Rider behavior is weather-sensitive**, but high-humidity ride counts suggest a subset of committed users (e.g., commuters). This supports maintaining full service during humid periods and exploring user segmentation.
+  ![Bike Share Distribution by Humidity](images/humidity_dist.png)
 - **Hourly patterns** show commute-realted peaks on workdays and midday peaks on weekends/holidays. This can guide staffing, bike redistribution, and targeted promotions.
 - **Seasonal trends** such as higher evening usage in summer and morning in winter, suggest the need for seasonally adaptive availability and marketing strategies.
 - **Monthly ride trends** indicate predictable seasonal usage variations. Operators can optimize maintenance and promotional efforts around low-demand months like January.
