@@ -16,7 +16,7 @@ I chose this dataset because it offers temporal and environmental variables, whi
 - **Python** (pandas, matplotlib, numpy, seaborn, scipy)
 - **Jupiter Notebook** for code development and narrative
 - **Tableau** for dashboard creation
-- **Data Sourse** [London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
+- **Data Sourse**: [London Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
 ## Methodology
 1. **Data Cleaning**
