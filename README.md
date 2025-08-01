@@ -8,7 +8,7 @@ I analyzed historical bike-sharing data from Kaggle: [London Bike Sharing Datase
 This dataset includes over 17,000 hourly records of bike rentals, with features such as:
 - **Timestamp-based data** (date, working day, holiday)
 - **Weather conditions** (temperature, temperature "feels like", humidity, wind speed, weather category, season)
-- **Ride count** (the count of new bike shares)
+- **Ride count** (the count of new bike shares)  
 I chose this dataset because it offers rich temporal and environmental variables, which are ideal for exploring real-world patterns in transportation behavior and building practical, data-driven insights.
 
 ## Tools & Technologies
