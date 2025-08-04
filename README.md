@@ -1,4 +1,4 @@
-# London Bike Share Analysis: Exploring bike-sharing demand in relation to weather factors and daily patterns
+# London Bike Share Analysis: Exploring bike-sharing demand in relation to weather factors and daily patter
 
 ## Project Overview  
 The goal of this analysis is to determine and evaluate the key factors associated with bike share ride volume.  
