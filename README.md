@@ -41,7 +41,7 @@ I chose this dataset because it offers temporal and environmental variables, whi
   - Positive correlation with **temperature**: more rides in warmer weather
     ![Bike Share Distribution by Temperature](images/temperature_dist.png)
   - Hour cosine correlation showed strong cyclic patterns, especially on non-working days
-    ![Hourly Bike Share Distribution by Day Type](images/hourly_dist_day_types.png)
+    ![Hourly Bike Share Distribution by Day Type](images/day_type_hourly_dist.png)
 - **One-way ANOVA** and post-hoc Tukey test showed significant differences in ride frequency across **seasons**, with exception of spring and autumn that are statistically similar
 - **Mann-Whitney U test** confirmed that **workdays and non-workdays** have different usage patterns
 - **Kruskal-Wallis and Dunn's test** showed significant ride count differences across **weather** categories
@@ -57,7 +57,7 @@ I chose this dataset because it offers temporal and environmental variables, whi
   ![Bike Share Distribution by Humidity](images/humidity_dist.png)
 - **Hourly patterns** show commute-realted peaks on workdays and midday peaks on weekends/holidays. This can guide staffing, bike redistribution, and targeted promotions.
 - **Seasonal trends** such as higher evening usage in summer and morning in winter, suggest the need for seasonally adaptive availability and marketing strategies.
-  ![Hourly Bike Share Distribution by Season](images/hourly_dist_seasons.png)
+  ![Hourly Bike Share Distribution by Season](images/season_hourly_dist.png)
 - **Monthly ride trends** indicate predictable seasonal usage variations. Operators can optimize maintenance and promotional efforts around low-demand months like January.
 - **Wind speed trends** reflect increase in rides with wind speed until a subtle dip. Understanding this can improve weather-adjusted demand models.
 - Overall, the analysis supports **context-specific planning over generalized strategies**, enhancing both service reliability and user satisfaction.
