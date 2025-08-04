@@ -38,16 +38,16 @@ I chose this dataset because it offers temporal and environmental variables, whi
 ## Analytical Insights
 - **Pearson correlation** analysis revealed moderate assosiations between bike ride count and weather/time variables:
   - Negative correlation with **humidity**: more rides in drier conditions
-  - Positive correlation with **temperature**: more rides in warmer weather
+  - Positive correlation with **temperature**: more rides in warmer weather  
     ![Bike Share Distribution by Temperature](images/temperature_dist.png)
-  - Hour cosine correlation showed strong cyclic patterns, especially on non-working days
+  - Hour cosine correlation showed strong cyclic patterns, especially on non-working days  
     ![Hourly Bike Share Distribution by Day Type](images/day_type_hourly_dist.png)
 - **One-way ANOVA** and post-hoc Tukey test showed significant differences in ride frequency across **seasons**, with exception of spring and autumn that are statistically similar
 - **Mann-Whitney U test** confirmed that **workdays and non-workdays** have different usage patterns
 - **Kruskal-Wallis and Dunn's test** showed significant ride count differences across **weather** categories
 - **Descriptive and EDA** findings included:
   - Right-skewed overall ride distribution
-  - **Seasonal peaks** (e.g., July) and dips (e.g., January)
+  - **Seasonal peaks** (e.g., July) and dips (e.g., January)  
     ![Bike Share Distribution by Months](images/monthly_dist.png)
   - **Hourly** variations across day types and seasons
   - Left-skewed distributions across weather categories
