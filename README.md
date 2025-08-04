@@ -53,10 +53,10 @@ I chose this dataset because it offers temporal and environmental variables, whi
   - Left-skewed distributions across weather categories
 
 ## Business insights
-- **Rider behavior is weather-sensitive**, but high-humidity ride counts suggest a subset of committed users (e.g., commuters). This supports maintaining full service during humid periods and exploring user segmentation.
+- **Rider behavior is weather-sensitive**, but high-humidity ride counts suggest a subset of committed users (e.g., commuters). This supports maintaining full service during humid periods and exploring user segmentation.  
   ![Bike Share Distribution by Humidity](images/humidity_dist.png)
 - **Hourly patterns** show commute-realted peaks on workdays and midday peaks on weekends/holidays. This can guide staffing, bike redistribution, and targeted promotions.
-- **Seasonal trends** such as higher evening usage in summer and morning in winter, suggest the need for seasonally adaptive availability and marketing strategies.
+- **Seasonal trends** such as higher evening usage in summer and morning in winter, suggest the need for seasonally adaptive availability and marketing strategies.  
   ![Hourly Bike Share Distribution by Season](images/season_hourly_dist.png)
 - **Monthly ride trends** indicate predictable seasonal usage variations. Operators can optimize maintenance and promotional efforts around low-demand months like January.
 - **Wind speed trends** reflect increase in rides with wind speed until a subtle dip. Understanding this can improve weather-adjusted demand models.
